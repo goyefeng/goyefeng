@@ -1,10 +1,5 @@
 ## Hi there! I'm  www [咸鱼] 👋
 
-<ul>
-  <li>111</li>
-    <li>111</li>
-</ul>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nine0703&hide_border=true&border_radius=1.6&card_width=800)](#hi-there-im-takaaki-endo-tk-endo-)
 
 ### 📧 Contact Me
